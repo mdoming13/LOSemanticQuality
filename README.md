@@ -1,7 +1,7 @@
 # LOSemanticQuality
 Set of rules related to the completeness and correctness of the metadata conforming to the IEEE-LOM and LOM-ES standard
 
-Related works
+Related documents:
 
 Menéndez-Domínguez V.H. (2011). “Marco conceptual para la gestión integral de Objetos de Aprendizaje”, Tesis doctoral, Universidad de Castilla-La Mancha
 
